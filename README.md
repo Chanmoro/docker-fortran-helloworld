@@ -1,5 +1,5 @@
-# fortran-helloworld
-This is Fortran HelloWorld example.
+# docker-fortran-helloworld
+This is Fortran HelloWorld example with docker.
 
 ## Setup
 Clone this repository and build docker image.
