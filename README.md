@@ -10,9 +10,9 @@ $ docker build -t fortran .
 ```
 
 ## Usage
-1 . Run Fortran docker environment with mount current dir to /app.
+1 . Run Fortran docker environment.
 ```
-$ docker run -it --rm ${PWD}/.:/app -w /app fortran bash
+$ docker run -it --rm -w /app fortran bash
 ```
 
 2 . Compile COBOL source code.
